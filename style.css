@@ -1,0 +1,9 @@
+.owl-carousel .item {
+    margin: 5px;
+  }
+  
+  .owl-carousel .item iframe {
+    display: block;
+    width: 100%;
+  }
+  
