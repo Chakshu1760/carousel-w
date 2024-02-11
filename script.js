@@ -3,7 +3,7 @@ $(document).ready(function(){
       loop:true,
       margin:10,
       nav:true,
-      items:1 // Set to display only one item
+      items:1 
     });
   });
   
